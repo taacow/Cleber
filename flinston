@@ -1,0 +1,15 @@
+/* primeiro programa, ou seja, um programa bem merda mesmo */
+ class flinston  {
+	 public static void main(String[] args)  {
+	 int lc = 10; //lado da casa/da sala
+	 int cbq = 7; //comprimento do banheiro e do quarto
+	 int lbq = lc/2; //largura do banheiro e do quarto
+
+	 System.out.println
+	 ("Esse programa vai calcular a area da casa, oia q legal\n\n"
+	 + "A area da sala: " + lc*lc + "\n"
+	 + "A area do banheiro e do quarto: " + lbq*cbq + " cada" + "\n"
+	 + "A area total entao: " + (lc*lc + 2*cbq*lbq));	 
+	 }
+ }	 
+	
